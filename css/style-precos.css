@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Header */
+
+.topo {
+    background-color: #2f86d6;
+}
+
+.limitar-secao {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.container-topo {
+    position: relative;
+    padding: 35px 0;
+}
+
+.topo-logo {
+    position: relative;
+}
+
+.topo-logo img {
+    width: 80px;
+}
+
+.topo-logo div {
+    position: absolute;
+    top: 0;
+    left: 95px;
+}
+
+.topo-logo p {
+    color: #fff;
+    font-weight: 600;
+}
+
+.links-topo {
+    position: absolute;
+    top: 65px;
+    right: 0;
+}
+
+.links-topo a {
+    text-decoration: none;
+    color: #fff;
+    padding: 0 12px;
+    font-weight: 600;
+}
+
+/* Contéudo Principal - Tabela */
+
+.conteudo-principal {
+    padding: 100px 0px;
+}
+
+.conteudo-principal table {
+    margin: auto;
+}
+
+.celula-escondida {
+    visibility: hidden;
+}
+
+.celula-cabeçalho {
+    text-align: center;
+    padding: 20px 40px;
+    border-bottom: 1px solid #f1f3f7;
+    border-right: 1px solid #f1f3f7;
+    background-color: #f1f3f7;
+}
+
+.celula-cabeçalho p {
+    font-size: 14px;
+    font-weight: 500;
+    color: #a8a4a4;
+}
+
+.celula-cabeçalho h2 {
+    font-size: 37px;
+}
+
+table tbody td {
+    text-align: center;
+    padding: 20px 40px;
+    border-bottom: 1px solid #f1f3f7;
+    border-right: 1px solid #f1f3f7;
+}
+
+.primeira-celula {
+    text-align: left;
+    font-weight: 600;
+    background-color: #f1f3f7;
+}
+
+.marcador-azul {
+    width: 20px;
+    height: 20px;
+    background-color: #2f86d6;
+    margin: auto;
+    border-radius: 110px;
+}
+
+
+/* Footer */
+
+.rodape {
+    background-color: #2f86d6;
+    padding: 20px 0;
+}
+
+.rodape-logo {
+    width: 320px;
+    position: relative;
+    margin: 70px auto 40px;
+}
+
+.rodape-logo img {
+    width: 85px;
+}
+
+.rodape-logo div{ 
+    position: absolute;
+    top: 0;
+    left: 95px;
+}
+
+.rodape-logo p {
+    color: #fff;
+    font-weight: 600;
+}
+
+.container-contatos {
+    font-weight: 600;
+    margin-bottom: 50px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.container-copyright {
+    height:40px;
+    background-color: #f1f3f7; 
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.container-copyright span {
+    color: #2f86d6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
